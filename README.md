@@ -4,7 +4,7 @@ A production-grade relational database pipeline and advanced T-SQL implementatio
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Database Management System:** Microsoft SQL Server (T-SQL)
 * **Environment:** SQL Server Management Studio (SSMS)
 
