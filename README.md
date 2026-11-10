@@ -10,7 +10,7 @@ A production-grade relational database pipeline and advanced T-SQL implementatio
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 1. **`01_Database_Schema_Setup.sql`**
    * Handles database initialization, table creation (`Customers`, `Categories`, `Products`, `Orders`, `Order_Items`, `Inventory_Audit_Log`), foreign key constraints, and sample data seeding.
@@ -19,7 +19,7 @@ A production-grade relational database pipeline and advanced T-SQL implementatio
 
 ---
 
-## 🚀 Core Technical Scope Covered
+## Core Technical Scope Covered
 
 **Phase 1: Foundations & Filtering (Basic)**
   * Pattern matching with `LIKE`, range filtering with `BETWEEN`, duplicate elimination with `SELECT DISTINCT`, and group filtering via `GROUP BY` and `HAVING`.
@@ -35,7 +35,7 @@ A production-grade relational database pipeline and advanced T-SQL implementatio
 
 ---
 
-## ⚙️ How to Run This Project
+## How to Run This Project
 
 1. Open **SQL Server Management Studio (SSMS)**.
 2. Open and execute **`01_Database_Schema_Setup.sql`** to create the `ECommercePipelineDB` database and populate test data.
